@@ -9,7 +9,7 @@ https://github.com/umms-hackathon/biopipegen.git
 **3. Team members:**
 
 **4. Aim:** 
-The aim of this project is to create a pipeline generator based nextflow.
+The aim of this project is to create a pipeline generator based on nextflow.
 
 **5. Project description:**
 The pipelines will be generated using an interface uses d3. The resulting file will be a nextflow document.
